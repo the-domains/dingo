@@ -1,0 +1,28 @@
+name: Enter the Dingo
+favicon: null
+layout_spectrum: 0.13143577286973596
+typography_spectrum: 0.6761662054341286
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.24999405979178846
+  lightness: 0.4109068317338824
+  saturation: 0.666642113821581
+  rhythmicContrast: 0.6545175896026194
+purpose: []
